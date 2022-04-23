@@ -6,6 +6,7 @@ While helping a co-worker Bobby, his manager requested to determine the number o
 ## Results
 ### Current Employees
 There are currently 240,124 employees working at Pewlett-Hackard, with the breakdown of employees, by department, listed below:
+
 <img width="211" alt="Screen Shot 2022-04-23 at 8 07 03 AM" src="https://user-images.githubusercontent.com/99417460/164895920-f48a96f4-bcca-477d-a7a9-8895132ac198.png">
 
 ### Retirement-Eligible Employees
